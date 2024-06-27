@@ -1,7 +1,7 @@
 # 3ddose-analysis
 
 ## Giới thiệu
-Code này dùng để đọc file 3ddose, sau đó tính tổng năng lượng lắng đọng trong phantom, và vẽ profile.
+Code này dùng để đọc file 3ddose, sau đó tính tổng năng lượng lắng đọng trong phantom, tinh sai so, và vẽ profile.
 
 ## Giải Thích Quy Trình
 
